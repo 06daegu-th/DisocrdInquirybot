@@ -1,0 +1,12 @@
+{
+    "setting": {
+        "category": "카테고리ID",
+        "guild": "서버ID",
+        "log_channel": "로그ID"
+    },
+
+    "bot": {
+        "token": "토큰"
+
+    }
+}
